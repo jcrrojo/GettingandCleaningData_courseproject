@@ -28,4 +28,6 @@ section 5. From the data set in step 4, creates a second, independent tidy data 
 
 ###Step 5 (section 5). The data set does not include the subject, so add subject. Using de package "data.table" and aggregate function, we made tidyDataTT with the average of each variable or each activity and each subject. Finaly, with write.table, made the final file: tidyDataTT.txt
 
-The whole code is in run_analysis.R
+###The whole code is in run_analysis.R
+
+###The Code Book with description of variables is "UCI HAR Dataset.names.pdf"
